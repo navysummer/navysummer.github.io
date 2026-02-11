@@ -1,0 +1,1 @@
+import{_ as e}from"./index-CIlc6CiH.js";import{f as o,o as t}from"./vendor-Bp3o8l42.js";const s={name:"NovelList"};function r(n,c,a,i,l,p){return t(),o("div",null," list ")}const m=e(s,[["render",r]]);export{m as default};
