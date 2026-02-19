@@ -1,0 +1,1 @@
+import{_ as e}from"./index-D2QdqE7p.js";import{b as o,o as t}from"./vendor-5x3gia--.js";const r={name:"NovelText"};function c(n,s,a,p,_,f){return t(),o("div")}const l=e(r,[["render",c]]);export{l as default};
