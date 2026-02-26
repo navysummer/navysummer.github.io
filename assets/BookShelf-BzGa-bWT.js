@@ -1,1 +1,0 @@
-import{_ as o}from"./index-BNj57DdA.js";import{b as e,o as t}from"./vendor-DJAHsOyX.js";const r={name:"BookShelf"};function s(n,c,a,f,l,p){return t(),e("div",null," bookshelf ")}const i=o(r,[["render",s]]);export{i as default};
