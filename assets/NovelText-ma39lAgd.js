@@ -1,0 +1,1 @@
+import{_ as e}from"./index-CQV2cae3.js";import{o,b as t}from"./vendor-CIDO_fCK.js";const r={name:"NovelText"};function c(n,s,a,p,_,f){return o(),t("div")}const l=e(r,[["render",c]]);export{l as default};

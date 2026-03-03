@@ -1,0 +1,1 @@
+import{_ as e}from"./index-CQV2cae3.js";import{o,b as t}from"./vendor-CIDO_fCK.js";const s={name:"NovelList"};function r(n,c,a,i,l,p){return o(),t("div",null," list ")}const m=e(s,[["render",r]]);export{m as default};
