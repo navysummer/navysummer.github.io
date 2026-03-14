@@ -1,0 +1,1 @@
+import{d as t}from"./vendor-CIDO_fCK.js";const o=t("theme",{state:()=>({theme:localStorage.getItem("site-theme")||"mac"}),actions:{setTheme(e){this.theme=e,localStorage.setItem("site-theme",e)}}});export{o as u};
