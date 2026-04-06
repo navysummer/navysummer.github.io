@@ -1,0 +1,1 @@
+import{d as t}from"./vendor-E86J7FFz.js";const o=t("theme",{state:()=>({theme:localStorage.getItem("site-theme")||"mac"}),actions:{setTheme(e){this.theme=e,localStorage.setItem("site-theme",e)}}});export{o as u};
