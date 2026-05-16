@@ -1,0 +1,1 @@
+import{i as e}from"./vendor-c1Se7FJx.js";var t=e(`theme`,{state:()=>({theme:localStorage.getItem(`site-theme`)||`mac`}),actions:{setTheme(e){this.theme=e,localStorage.setItem(`site-theme`,e)}}});export{t};
