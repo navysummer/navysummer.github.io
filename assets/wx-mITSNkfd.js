@@ -1,0 +1,1 @@
+var e=`/assets/wx-B2ELPNmB.jpg`;export{e as t};
